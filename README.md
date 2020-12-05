@@ -2,4 +2,4 @@
 Tiny JS project ;)
 
 
-Bubble trails that follow mouse
+Bubble trails that follow mouse using canvas.
